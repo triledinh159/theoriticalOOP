@@ -1,0 +1,5 @@
+﻿  OOPChap6Ex1.cpp
+C:\Users\acer\source\repos\OOPChap6Ex1\OOPChap6Ex1\Point.cpp(26,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\source\repos\OOPChap6Ex1\OOPChap6Ex1\OOPChap6Ex1.cpp(4,22): warning C4101: 'tmpY': unreferenced local variable
+C:\Users\acer\source\repos\OOPChap6Ex1\OOPChap6Ex1\OOPChap6Ex1.cpp(4,17): warning C4101: 'tmpX': unreferenced local variable
+  OOPChap6Ex1.vcxproj -> C:\Users\acer\source\repos\OOPChap6Ex1\x64\Debug\OOPChap6Ex1.exe
